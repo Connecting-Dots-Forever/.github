@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://discord.gg/8xM7gZ2AU6" target="_blank">
-    <img src="./logo.png" alt="logo" width="200">
+    <img src="https://raw.githubusercontent.com/Connecting-Dots-Forever/.github/main/profile/logo.png" alt="logo" width="200">
   </a>
 </p>
 
-<h2 align="center">Connecting Dots Forever</h2>
+<h3 align="center">Connecting Dots Forever</h3>
 
 <div align="center">
 	<p> "CDF" / "cd forever" </p>
